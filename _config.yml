@@ -23,7 +23,7 @@ repository               : "ggsong/ggsong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/zhengjianzhao.png"
+  avatar           : "../images/zhengjianzhao.png"
   name             : "Ge Gao(高歌)"
   pronouns         : # example: "she/her"  
   bio              : "Peking University"
