@@ -70,5 +70,4 @@ redirect_from:
 
 <style>
   h2, h3 { scroll-margin-top: 90px; }  /* 锚点下移，避免被固定导航挡住 */
-  html { scroll-behavior: smooth; }    /* 平滑滚动（可选） */
 </style>		
