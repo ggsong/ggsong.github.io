@@ -22,15 +22,16 @@ repository               : "ggsong/ggsong.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "../images/zhengjianzhao.PNG"
-  name             : "Ge Gao(高歌)"
-  pronouns         : # example: "she/her"  
-  bio              : "Peking University"
-  location         : "Fujian Xiamen"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar    : "/images/zhengjianzhao.PNG"       # ← 用 / 开头的绝对路径
+  name      : "Ge Gao(高歌)"
+  bio       : "Peking University"
+  location  : "Beijing, China"                  # 或 Xiamen / Beijing
+  email     : "g_g@stu.pku.edu.cn"
+
+  googlescholar : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  orcid         : "https://orcid.org/0000-0000-0000-0000"   # 替换成你的
+  github        : "ggsong"                                   # 建议改成你的用户名
+  # 其余没用到的项删掉或留空，避免侧栏出现多余图标
 
   # Academic websites
   academia         : # URL
