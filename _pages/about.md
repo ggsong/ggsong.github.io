@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 title: "Ge Gao (高歌)"
-author_profile: false
+author_profile: true
 classes: wide
 redirect_from:
   - /about/
@@ -11,21 +11,7 @@ redirect_from:
 
 
 
-## Home {#home}
 
-<div style="display:flex;gap:16px;align-items:center;flex-wrap:wrap;">
-  <img src="/images/zhengjianzhao.PNG" alt="Ge Gao" style="width:120px;border-radius:50%;margin:0;">
-  <div>
-    <p><strong>Ge Gao, MD</strong> · 全科 / 功能医学 · 临床 · 研究 · 创业</p>
-    <p>邮箱：<a href="mailto:g_g@stu.pku.edu.cn">g_g@stu.pku.edu.cn</a> ｜ 地址：厦门 / 北京（示例）</p>
-    <p>
-      <a href="https://github.com/ggsong" target="_blank">GitHub</a> ·
-      <a href="https://scholar.google.com/" target="_blank">Google Scholar</a> ·
-      <a href="https://orcid.org/" target="_blank">ORCID</a> ·
-      <a href="/images/wechat.jpg" target="_blank">WeChat</a>
-    </p>
-  </div>
-</div>
 
 ---
 
@@ -71,3 +57,11 @@ redirect_from:
 <style>
   h2, h3 { scroll-margin-top: 90px; }  /* 锚点下移，避免被固定导航挡住 */
 </style>		
+
+<style>
+/* 只改作者侧栏头像为矩形 */
+.author__avatar img { border-radius: 0 !important; }
+/* 如需控制侧栏头像尺寸，可加一条，例如固定 160px 宽 */
+.author__avatar img { width: 160px; height: auto; }
+/* 侧栏本来就是“头像在上、信息在下”的上下排布，无需额外设置 */
+</style>
