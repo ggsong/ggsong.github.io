@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 title: "Ge Gao (高歌)"
-author_profile: flase
+author_profile: false
 classes: wide
 redirect_from:
   - /about/
