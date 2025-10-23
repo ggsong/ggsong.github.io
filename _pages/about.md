@@ -9,6 +9,7 @@ redirect_from:
   - /about.html
 ---
 
+![](/images/zhengjianzhao.png){: style="width:120px;" }
 
 ## Introduction {#introduction}
 I am a general practitioner and functional medicine physician with interests in digital health and patient-centered chronic disease management. My current work spans primary care pathways, nutrition and metabolism, and translational projects such as HPV screening and prevention. I enjoy building pragmatic, data-driven solutions that improve accessibility and care quality.
