@@ -14,18 +14,18 @@ redirect_from:
 I am a general practitioner and functional medicine physician with interests in digital health and patient-centered chronic disease management. My current work spans primary care pathways, nutrition and metabolism, and translational projects such as HPV screening and prevention. I enjoy building pragmatic, data-driven solutions that improve accessibility and care quality.
 
 ## Education {#education}
-- 20XX–20XX — Degree / Major, University / School (Advisor: Name)
-- 20XX–20XX — Residency / Training, Hospital / Program
-- 20XX–20XX — Continuing education / Exchange (reverse chronological order)
+20XX–20XX — Degree / Major, University / School (Advisor: Name)
+20XX–20XX — Residency / Training, Hospital / Program
+20XX–20XX — Continuing education / Exchange (reverse chronological order)
 
 ## Awards {#awards}
-- 20XX — Award name · Organization (one-line note on contribution if relevant)
-- 20XX — Award name · Organization
-- 20XX — Award name · Organization
+20XX — Award name · Organization (one-line note on contribution if relevant)
+20XX — Award name · Organization
+20XX — Award name · Organization
 
 ## Certificate {#certificate}
-- 20XX — License / Certificate name (Issuing body / Registration No., optional)
-- 20XX — License / Certificate name (Issuing body / Registration No., optional)
+20XX — License / Certificate name (Issuing body / Registration No., optional)
+20XX — License / Certificate name (Issuing body / Registration No., optional)
 
 ## Publication {#publication}
 Representative publications will be listed here (to be updated).
