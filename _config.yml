@@ -29,7 +29,7 @@ author:
   email     : "g_g@stu.pku.edu.cn"
 
   googlescholar : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid         : "https://orcid.org/0000-0000-0000-0000"   # 有就填；没有可以先删掉这一行
+  orcid         : ""                  # 有就填，没有就留空或删掉
   github        : "ggsong"
 
   # 其余没用到的全部删掉或留空（不要重复同名键）
