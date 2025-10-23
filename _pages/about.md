@@ -54,3 +54,21 @@ Representative publications will be listed here (to be updated).
 .author__avatar img { width: 160px; height: auto; }
 /* 侧栏本来就是“头像在上、信息在下”的上下排布，无需额外设置 */
 </style>
+
+<style>
+  /* 全页字体：正文、导航、标题、侧栏统一 Times New Roman */
+  html, body, .site-title, .site-nav, .page__title,
+  .page__content, .author__content, .author__urls-wrapper,
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Times New Roman", Times, serif !important;
+    letter-spacing: normal;
+  }
+
+  /* 去掉小标题自带的底部边线（Minimal Mistakes 默认给 h2/h3 加线） */
+  .page__content h2, .page__content h3 {
+    border-bottom: 0 !important;
+  }
+
+  /* 你的锚点偏移保留（避免被固定导航遮住） */
+  h2, h3 { scroll-margin-top: 90px; }
+</style>
