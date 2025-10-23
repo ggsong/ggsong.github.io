@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Ge Gao (高歌)"
+title: ""
 author_profile: true
 classes: wide
 redirect_from:
@@ -10,48 +10,37 @@ redirect_from:
 ---
 
 
-
-
-
----
-
 ## Introduction {#introduction}
-一句话定位（如：全科与功能医学交叉的临床医生与研究者）。再用 3–4 句写当前工作方向（基层慢病管理、营养代谢、HPV 项目等）、研究兴趣（方法学/数据科学）、与阶段目标（提升可及性与流程优化）。
-
----
+I am a general practitioner and functional medicine physician with interests in digital health and patient-centered chronic disease management. My current work spans primary care pathways, nutrition and metabolism, and translational projects such as HPV screening and prevention. I enjoy building pragmatic, data-driven solutions that improve accessibility and care quality.
 
 ## Education {#education}
-- 20XX–20XX — 学位 / 专业 / 学校（导师：XXX）
-- 20XX–20XX — 住培 / 进修 / 基地
-- 20XX–20XX — 其他继续教育/交换（倒序）
-
----
+- 20XX–20XX — Degree / Major, University / School (Advisor: Name)
+- 20XX–20XX — Residency / Training, Hospital / Program
+- 20XX–20XX — Continuing education / Exchange (reverse chronological order)
 
 ## Awards {#awards}
-- 20XX — 奖项名称 · 颁发机构（一句话说明贡献/排名可选）
-- 20XX — 奖项名称 · 颁发机构
-- 20XX — 奖项名称 · 颁发机构
-
----
+- 20XX — Award name · Organization (one-line note on contribution if relevant)
+- 20XX — Award name · Organization
+- 20XX — Award name · Organization
 
 ## Certificate {#certificate}
-- 20XX — 证书/资质名称（发证机构/证书号可选）
-- 20XX — 证书/资质名称（发证机构/证书号可选）
-
----
+- 20XX — License / Certificate name (Issuing body / Registration No., optional)
+- 20XX — License / Certificate name (Issuing body / Registration No., optional)
 
 ## Publication {#publication}
-<p>代表论文将在此展示，更新中。</p>
+Representative publications will be listed here (to be updated).
 
-<!-- 将来想自动列出全部论文，可把下面这段去掉注释（并确保有 _publications/ 条目）：
+<!-- If you want auto-rendered entries later, uncomment and ensure _publications/ has items:
+
 {% assign pubs = site.publications | sort: "date" | reverse %}
 {% if pubs.size > 0 %}
   {% for pub in pubs %}
     {% include archive-single.html %}
   {% endfor %}
 {% else %}
-  <p>论文清单将随后补充。</p>
+  <p>No publications yet.</p>
 {% endif %}
+
 -->
 
 <style>
