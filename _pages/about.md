@@ -14,7 +14,7 @@ redirect_from:
 To be updated🥲<br>
 
 ## Education {#education}
-2025/09～present, Peking University, First Clinical Medical College/ First Hospital<br>
+2025/09～Present, Peking University, First Clinical Medical College/ First Hospital<br>
 2020/09～2025/06, Fujian Medical University, Clinical Medicine<br>
 2017/09～2020/06, Xiamen No.1 High School
 
