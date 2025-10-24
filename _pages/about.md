@@ -27,18 +27,6 @@ To be updated🥲<br>
 ## Publication {#publication}
 To be updated🥲<br>
 
-<!-- If you want auto-rendered entries later, uncomment and ensure _publications/ has items:
-
-{% assign pubs = site.publications | sort: "date" | reverse %}
-{% if pubs.size > 0 %}
-  {% for pub in pubs %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% else %}
-  <p>No publications yet.</p>
-{% endif %}
-
--->
 
 <style>
   h2, h3 { scroll-margin-top: 90px; }  /* 锚点下移，避免被固定导航挡住 */
