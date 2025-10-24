@@ -11,24 +11,21 @@ redirect_from:
 
 
 ## Introduction {#introduction}
-I am a general practitioner and functional medicine physician with interests in digital health and patient-centered chronic disease management. My current work spans primary care pathways, nutrition and metabolism, and translational projects such as HPV screening and prevention. I enjoy building pragmatic, data-driven solutions that improve accessibility and care quality.
+To be updated🥲<br>
 
 ## Education {#education}
-20XX–20XX — Degree / Major, University / School (Advisor: Name)<br>
-20XX–20XX — Residency / Training, Hospital / Program<br>
-20XX–20XX — Continuing education / Exchange (reverse chronological order)
+2025/09～present, Peking University, First Clinical Medical College/ First Hospital<br>
+2020/09～2025/06, Fujian Medical University, Clinical Medicine<br>
+2017/09～2020/06, Xiamen No.1 High School
 
 ## Awards {#awards}
-20XX — Award name · Organization (one-line note on contribution if relevant)<br>
-20XX — Award name · Organization<br>
-20XX — Award name · Organization
+To be updated🥲<br>
 
 ## Certificate {#certificate}
-20XX — License / Certificate name (Issuing body / Registration No., optional)<br>
-20XX — License / Certificate name (Issuing body / Registration No., optional)
+To be updated🥲<br>
 
 ## Publication {#publication}
-Representative publications will be listed here (to be updated).
+To be updated🥲<br>
 
 <!-- If you want auto-rendered entries later, uncomment and ensure _publications/ has items:
 
